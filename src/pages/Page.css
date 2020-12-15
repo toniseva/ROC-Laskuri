@@ -1,0 +1,15 @@
+
+.buttonSave, .buttonPrint{
+    width:40%;
+    margin:10px 30%;
+    display:block;
+}
+.select-text{
+    display:none !important;
+}
+.col-66{
+    width:66%;
+}
+.col-11{
+    width:11%;
+}
